@@ -1,0 +1,27 @@
+.rightbar {
+    flex: 3;
+}
+
+.rigthbarWrapper {
+    padding: .25em;
+}
+
+.birthdayContainer {
+    display: flex;
+    align-items: center;
+    margin-top: 2em;
+}
+
+.birthdayImg {
+    width:40px;
+}
+
+.rightbarAd {
+    width:100%;
+    border-radius: .5em;
+    margin: 1em 0;
+}
+
+.title {
+    margin-top: 1.5em;
+}
